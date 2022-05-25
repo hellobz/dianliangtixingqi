@@ -1,2 +1,3 @@
 # dianliangtixingqi
 uniapp开发的电量提醒器安卓app
+请选择master分支，不要选择main分支。项目到master分支下，main分支下没有项目
