@@ -1,0 +1,2 @@
+# dianliangtixingqi
+uniapp开发的电量提醒器安卓app
